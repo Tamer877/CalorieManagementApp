@@ -52,38 +52,6 @@ The app uses the **Mifflin-St Jeor Equation** to calculate BMR:
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Flutter SDK installed
-- A Firebase project set up
-
-### Setup
-
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/CalorieManagementApp.git
-cd CalorieManagementApp
-```
-
-2. Install dependencies:
-```bash
-flutter pub get
-```
-
-3. Set up Firebase:
-   - Create a Firebase project at [console.firebase.google.com](https://console.firebase.google.com)
-   - Enable **Email/Password** authentication
-   - Enable **Cloud Firestore**
-   - Run `flutterfire configure` to generate `lib/firebase_options.dart`
-
-4. Run the app:
-```bash
-flutter run
-```
-
----
-
 ## 📂 Project Structure
 
 ```
